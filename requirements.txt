@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+scikit-learn
+scipy
+statsmodels
+pyod
+shap
+imbalanced-learn
+torch
+hdbscan
+kneed
+pythresh
+combo
